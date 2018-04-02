@@ -1,0 +1,50 @@
+header{
+	background-color: #356cbf;
+	padding: 30px;
+	text-align: center;
+}
+
+h1 {
+
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+
+}
+
+.content{
+	max-width: 850px;
+	margin: auto;
+}
+
+img.big-img{
+	max-width: 100%;
+}
+
+h2{
+
+	background-color: coral;
+}
+
+li {
+	font-size: 20px;
+
+}
+
+p{
+
+	font-size: 20px;
+}
+
+
+footer {
+
+	margin:center;
+}
+/*<header>
+	<img src="img/profile.jpg">
+	<h1>The Flash</h1>
+</header>*/
