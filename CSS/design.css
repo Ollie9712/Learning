@@ -3,7 +3,10 @@ header{
 	padding: 50px;
 	text-align: center;
 }
+div.top{
+	background-image:https://www.allwallpaper.in/azul-dc-comics-green-lantern-flash-wallpaper-16751.html('img/web1.jpg');
 
+}
 h1 {
 
 	font-size: 110px;
@@ -16,6 +19,11 @@ header img{
 
 }
 
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
+
 .button {
 	font-size: 30px;
 	background-color: red;
@@ -23,18 +31,8 @@ header img{
 }
 
 
-.home{
-	float: right;
-	width: 450px;
-	height: 450px;
-}
-.home1{
-	float: left;
-	width: 450px;
-	height: 450px;
-	 
 
-}
+
 .menu {
 	color: black;
 	font-style: bold;
@@ -43,9 +41,9 @@ header img{
 	font-size: 35px;
 	border: 2px;
 	border-color: red;
-
-
 }
+
+
 
 p {
 	font-style: italic;
@@ -69,7 +67,7 @@ h2{
 }
 
 
-}
+
 
 p{
 
