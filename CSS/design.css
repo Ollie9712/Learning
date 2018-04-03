@@ -1,23 +1,30 @@
 header{
-	background-color: #356cbf;
-	padding: 30px;
+	background-color:#801A66;
+	padding: 50px;
 	text-align: center;
 }
 
 h1 {
 
-	font-size: 90px;
+	font-size: 110px;
 	color: white;
+	font-family: Times;
 }
 
 header img{
-	border-radius: 150px;
+	border-radius: 50px;
 
 }
 
+p {
+	font-style: italic;
+	font-size: 30px;
+}
+
 .content{
-	max-width: 850px;
+	max-width: 1000px;
 	margin: auto;
+	background-color:#C2C27A; 
 }
 
 img.big-img{
@@ -25,12 +32,11 @@ img.big-img{
 }
 
 h2{
-
-	background-color: coral;
+	font-style: bold;
+	font-size: 40px;
+	background-color: #D6A352;
 }
 
-li {
-	font-size: 20px;
 
 }
 
@@ -41,9 +47,39 @@ p{
 
 
 footer {
-
-	margin:center;
+	max-width: 1000px;
+	margin: auto;
+	background-color: orange; 
 }
+
+
+
+a {
+color: #cc0000;
+}
+
+ol {
+	color: red;
+
+}
+
+.links {
+
+	color:black;
+}
+
+a:hover {
+color: black;
+}
+
+body{
+	background-color:#A61247;
+	font-style: bold;
+	font-size: 20px;
+}
+
+
+
 /*<header>
 	<img src="img/profile.jpg">
 	<h1>The Flash</h1>
