@@ -1,0 +1,53 @@
+
+div.header1 {
+	border-color: black;
+}
+ h1 {
+ 	font-size: 50px;
+ 	color:#ffff00;
+ 	text-align: center;
+ 	font-family: Arial;
+ 	font-style: italic;
+
+ }
+.table{
+	padding-top: 200px;
+	padding-left: 357px;
+	padding-right: 100px;
+	padding-bottom: 200px;
+}
+
+ table, th, td {
+ 	background-color: black;
+}
+
+td {
+
+	height: 100%;
+	vertical-align:center;
+
+}
+
+tr{
+	width: 240px;
+	height: 340px;
+	border-radius: 5px;
+	vertical-align:center;
+	border-color: black;
+}
+
+img {
+
+	height: 170px;
+	width: 235px;
+}
+
+table{
+	
+	align-items: center;
+}
+
+a.hover{
+	border-color: black;
+
+}
